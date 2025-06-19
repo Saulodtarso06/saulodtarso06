@@ -13,7 +13,8 @@
 
 ### 🤙 Sobre mim
 
-🔷 Gosto de código limpo, café doce e deploy rápido.  
+🔷 Gosto de código limpo, café doce e deploy rápido.
+🎓 Graduated in Systems Analysis and Development at UniBH.
 🎯 Programar faz o tempo passar tão rapido...  
 🎸👨‍🎤 Toco violão, mas só toco rock ahaha (na verdade é algo muito raro e sempre escondido).
 

@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Saulo de Tarso</h1>
 <p align="center">
-  <em>dev jr fullstack · 🇧🇷 based in 🔺 Belo Horizonte - MG </em>
+  <em>dev jr fullstack · 🇧🇷 based in 🚩 Belo Horizonte - 🔺 MG </em>
 </p>
 
 <p align="center">

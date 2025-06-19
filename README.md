@@ -45,10 +45,10 @@
   </a>
 
 <a href="https://outlook.com.br" target="_blanck">
-    <img src="https://img.shields.io/badge/✉ saulo.detarso06yahoo.com.br-006400?style=for-the-badge&logo=email&logoColor=white"/>
+    <img src="https://img.shields.io/badge/✉ saulo.detarso06@yahoo.com.br-006400?style=for-the-badge&logo=email&logoColor=white"/>
     </a>
 </p>
 
 ---
 
-> 💬 “Aumente seu esforço. Ou pode esquecer aquilo que você chama de sonho...”
+> **💬 “Aumente seu esforço. Ou pode esquecer aquilo que você chama de sonho...”**

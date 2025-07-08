@@ -5,7 +5,7 @@
 
 <p align="center">
   <code>JavaScript</code> • <code>Node.js</code> • <code>React</code> • <code>TypeScript</code><br/>
-  <code>Mysql</code> • <code>C++</code> • <code>Python</code> • <code>HTML</code> • 
+  <code>Mysql</code> • <code>Linux</code> • <code>Python</code> • <code>HTML</code> • 
   <code>CSS</code> • <code>PHP</code> • <code>Git | Github</code>
 </p>
 

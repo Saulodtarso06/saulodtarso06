@@ -38,7 +38,7 @@
   </a>
   
   <a href="https://br.linkedin.com/in saulo-de-tarso-8a2b00133" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-120a8f?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://x.com/SaulodeTarso10"       target="_blanck">

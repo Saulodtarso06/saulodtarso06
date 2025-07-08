@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <code>JavaScript</code> • <code>JAVA</code> • <code>Node.js</code> • <code>React</code> • <code>Spring</code><br/>
+  <code>JavaScript</code> • <code>Node.js</code> • <code>React</code> • <code>TypeScript</code><br/>
   <code>Mysql</code> • <code>C++</code> • <code>Python</code> • <code>HTML</code> • 
-  <code>CSS</code> • <code>PHP</code>
+  <code>CSS</code> • <code>PHP</code> • <code>Git | Github</code>
 </p>
 
 ---

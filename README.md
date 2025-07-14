@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <code>JavaScript</code> • <code>Node.js</code> • <code>React</code> • <code>TypeScript</code><br/>
-  <code>Mysql</code> • <code>Linux</code> • <code>Python</code> • <code>HTML</code> • 
-  <code>CSS</code> • <code>PHP</code> • <code>Git | Github</code>
+  <code>JavaScript</code> • <code>Node.js</code> • <code>React.js</code> • <code>TypeScript</code><br/>
+  <code>Mysql</code> • <code>Linux</code> • <code>WSL</code> • <code>HTML</code> • 
+  <code>CSS</code> • <code>Python</code> • <code>Git</code> • <code>Docker</code>
 </p>
 
 ---

@@ -13,10 +13,11 @@
 
 ### 🤙 Sobre mim
 
-🔷 Gosto de código limpo, café doce e deploy rapido.    
-🎓 Graduated in Systems Analysis and Development at UniBH.     
-🎯 Programar faz o tempo passar tão rapido...  
-🎸👨‍🎤 Toco violão, mas só toco rock ahaha (na verdade é algo muito raro e sempre escondido).
+Desenvolvedor Fullstack Jr, sou curioso em novas tecnologias, ampla experiência em JavaScript, TypeScript, React.js, e Node.js. 
+
+Habilidade comprovada na construção de interfaces de usuário dinâmicas e responsivas, utilizando as melhores práticas de desenvolvimento web. Capacidade de integrar e gerenciar eficientemente APIs ( foco em REST ) e serviços back-end, garantindo desempenho e escalabilidade. 
+
+Familiaridade com ferramentas modernas de desenvolvimento e otimização. Sou ágil para aprender novas tecnologias e me adaptar a mudanças. Estou pronto para os próximos desafios!
 
 ---
 

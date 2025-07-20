@@ -13,7 +13,7 @@
 
 ### 🤙 Sobre mim
 
-Desenvolvedor Fullstack Jr, sou curioso em novas tecnologias, ampla experiência em JavaScript, TypeScript, React.js, e Node.js. 
+Desenvolvedor Fullstack Jr, iniciei meu desenvolvimento em 2022, no curso tecnólogo em Análise e Desenvolvimento de Sistemas pela UniBH - MG. Por ser curioso e entusiasta em novas tecnologias, procurei qualificação e possuo ampla experiência em JavaScript, TypeScript, React.js, e Node.js. 
 
 Habilidade comprovada na construção de interfaces de usuário dinâmicas e responsivas, utilizando as melhores práticas de desenvolvimento web. Capacidade de integrar e gerenciar eficientemente APIs ( foco em REST ) e serviços back-end, garantindo desempenho e escalabilidade. 
 

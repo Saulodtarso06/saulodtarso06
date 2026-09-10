@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <code>JavaScript</code> • <code>Node.js</code> • </p><code>R</code> • <code>Power-BI</code><br/>
-  <code>Mysql</code> • <code>Linux</code> • <code>WSL</code> • <code>HTML</code> • 
-  <code>CSS</code> • <code>Python</code> • <code>Git</code> • <code>Docker</code>
+  <code>Databricks</code> • <code>API REST</code> • <code>Python</code> • <code>Power-BI</code><br/>
+  <code>Mysql</code> • <code>R</code> • <code>WSL</code> • <code>Tableau</code>
+   • <code>Git</code> • <code>Azure</code> • <code>Docker</code>
 </p>
 
 ---

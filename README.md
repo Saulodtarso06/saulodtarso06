@@ -1,10 +1,10 @@
 <h1 align="center">👨‍💻 Saulo de Tarso</h1>
 <p align="center">
-  <em>dev jr fullstack · 🇧🇷 based in 📍 Belo Horizonte - 🔺 MG </em>
+  <em> data developer · 🇧🇷 based in 📍 Belo Horizonte - 🔺 MG </em>
 </p>
 
 <p align="center">
-  <code>JavaScript</code> • <code>Node.js</code> • <code>React.js</code> • <code>TypeScript</code><br/>
+  <code>JavaScript</code> • <code>Node.js</code> • </p><code>R</code> • <code>Power-BI</code><br/>
   <code>Mysql</code> • <code>Linux</code> • <code>WSL</code> • <code>HTML</code> • 
   <code>CSS</code> • <code>Python</code> • <code>Git</code> • <code>Docker</code>
 </p>
@@ -13,11 +13,11 @@
 
 ### 🤙 Sobre mim
 
-Desenvolvedor Fullstack Jr, iniciei meu desenvolvimento em 2022, no curso tecnólogo em Análise e Desenvolvimento de Sistemas pela UniBH - MG. Por ser curioso e entusiasta em novas tecnologias, procurei qualificação e possuo ampla experiência em JavaScript, TypeScript, React.js, e Node.js. 
+Data Developer Fullstack Jr, iniciei meu desenvolvimento em 2022, no curso tecnólogo em Análise e Desenvolvimento de Sistemas pela UniBH - MG. Por ser curioso e entusiasta em novas tecnologias.
 
-Habilidade comprovada na construção de interfaces de usuário dinâmicas e responsivas, utilizando as melhores práticas de desenvolvimento web. Capacidade de integrar e gerenciar eficientemente APIs ( foco em REST ) e serviços back-end, garantindo desempenho e escalabilidade. 
+Possuo formação técnica em Manutenção Automotiva e formação superior em Análise e Desenvolvimento de Sistemas, agregando conhecimentos de tecnologia com foco em análise de dados.
 
-Familiaridade com ferramentas modernas de desenvolvimento e otimização. Sou ágil para aprender novas tecnologias e me adaptar a mudanças. Estou pronto para os próximos desafios!
+Atualmente trabalho com análise de dados orientada a operações e frotas, desenvolvendo soluções em dados como indicadores (KPI's Operacionais), projetos de melhoria contínua de processos e suporte à implantação de novos processos produtivos, automação de processos, gestão à vista, Excel (Avançado), Power BI, Python, R, PL/SQL (Mysql), construção de dashboards, integração e validação integração de dados provenientes de diferentes sistemas corporativos, incluindo SAP, WAVE e demais bases internas, auditoria de informações e análises críticas, acompanhamento de indicadores operacionais e gerenciais no desenvolvimento de insight para tomadas de decisão. 
 
 ---
 

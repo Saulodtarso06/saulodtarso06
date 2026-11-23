@@ -17,7 +17,7 @@ Data Developer Fullstack Jr, iniciei meu desenvolvimento em 2022, no curso tecn�
 
 Possuo formação técnica em Manutenção Automotiva e formação superior em Análise e Desenvolvimento de Sistemas, agregando conhecimentos de tecnologia com foco em análise de dados.
 
-Atualmente trabalho com análise de dados orientada a operações e frotas, desenvolvendo soluções em dados como indicadores (KPI's Operacionais), projetos de melhoria contínua de processos e suporte à implantação de novos processos produtivos, automação de processos, gestão à vista, Excel (Avançado), Power BI, Python, R, PL/SQL (Mysql), construção de dashboards, integração e validação integração de dados provenientes de diferentes sistemas corporativos, incluindo SAP, WAVE e demais bases internas, auditoria de informações e análises críticas, acompanhamento de indicadores operacionais e gerenciais no desenvolvimento de insight para tomadas de decisão. 
+Atualmente atuo em análise de dados orientada a operações e frotas, desenvolvendo soluções em dados como indicadores (KPI's Operacionais), projetos de melhoria contínua de processos e suporte à implantação de novos processos produtivos e melhoria continua de processos, automação de processos, gestão à vista, Excel (Avançado), Power BI, Python, PL/SQL (Mysql), construção de dashboards (Power BI / Python), integração e validação de dados provenientes de diferentes sistemas corporativos, incluindo SAP, WAVE - Let's Rent a Car S/A, Euroit - EBEC S/A, NEXTfleet - Telemont S/A e demais bases internas, , elaboração de relatóris de manutenção da frota, auditoria de dados com análise crítica, acompanhamento de indicadores operacionais (KPI) gerenciais para desenvolvimento de insight para tomadas de decisão. 
 
 ---
 
